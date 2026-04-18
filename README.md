@@ -9,11 +9,6 @@
 
 ---
 
-## 🌐 Live Demo
-🔗 Coming Soon...
-
----
-
 ## 💡 About
 
 **RepoLoader** is a web application built for developers who want to 
